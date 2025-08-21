@@ -48,7 +48,7 @@ This project uses **PyWhatKit** to automate WhatsApp messaging directly from you
 
 1. Clone this repository:
 
-        git clone https://github.com/faizanfk01/WhatsApp-Bot.git
+        https://github.com/faizanfk01/WhatsApp-Bot.git
 
 2. Navigate to the project folder:
 
